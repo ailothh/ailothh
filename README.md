@@ -1,8 +1,8 @@
 # about me
 - Country: US
 - Coding in: Python, Java, C++, and some others
-# WEBSITE
-[Website](https://ailothh.github.io/website2/)
+# Website
+[Online Portfolio](https://ailothh.github.io/website2/)
 
 ### Profile visits
 <p> <img src="https://profile-counter.glitch.me/ailothh/count.svg" /> </p>  
