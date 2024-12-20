@@ -1,7 +1,8 @@
 # about me
 - Country: US
 - Coding in: Python, Java, C++, and some others
-
+# WEBSITE
+ailothh.github.io/website2/
 
 
 ### Profile visits
