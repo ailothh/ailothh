@@ -1,9 +1,14 @@
 # about me
 - Country: US
 - Coding in: Python, Java, C++, and some others
-# WEBSITE
+# ** WEBSITE
 !([ailothh.github.io/website2/])
+<a name="my-custom-anchor-point"></a>
+Some text I want to provide a direct link to, but which doesn't have its own heading.
 
+(… more content…)
+
+[A link to that custom anchor](#my-custom-anchor-point)
 
 ### Profile visits
 <p> <img src="https://profile-counter.glitch.me/ailothh/count.svg" /> </p>  
