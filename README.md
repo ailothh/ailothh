@@ -7,7 +7,7 @@
 
 
 
-[A link to that custom anchor](#my-custom-anchor-point)
+[https://ailothh.github.io/website2/](#my-custom-anchor-point)
 
 ### Profile visits
 <p> <img src="https://profile-counter.glitch.me/ailothh/count.svg" /> </p>  
