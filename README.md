@@ -1,8 +1,11 @@
 # about me
 - Country: US
 - Coding in: Python, Java, C++, and some others
-# Website
+# Websites
 [Online Portfolio](https://ailothh.github.io/website2/)
+
+
+[https://ailothh.github.io/Mock-Weather-Satellite/]
 
 ### Profile visits
 <p> <img src="https://profile-counter.glitch.me/ailothh/count.svg" /> </p>  
